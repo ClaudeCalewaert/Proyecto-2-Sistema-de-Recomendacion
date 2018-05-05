@@ -3,11 +3,14 @@ Codigo de un sistema de recomendación de  videojuegos basado en grafos
 
 Inicio
 
-- Ingresar los datos obtenidos de la enuesta a la base de datos
+- Ingresar los datos obtenidos de la encuesta a la base de datos
 - Comparar los datos de intereses y motivaciones del usuario con otros usuarios 
-- Analizar las categorias de los juegos obtenidos al comparar usuarios para encontrar más juegos similares
-- Analizar las similitudes de juegos en realacion con usuarios de gustos y motivacioes similares
+- Analizar las categorías de los juegos obtenidos al comparar usuarios para encontrar más juegos similares
+- Analizar las similitudes de juegos en relación con usuarios de gustos y motivaciones similares
+- Comparar los datos de usuario obtenidos con el perfil de usuario para encontrar juegos con actividades acordes a las motivaciones de usuario
+-.Unificar los juegos obtenidos de los análisis y comparaciones para tener mejores resultados. 
 - Devolver los juegos similares
 -Si el usuario presiona alguno de los filtros, volver a devolver los juegos en base a los nuevos filtros
 
 Fin
+
