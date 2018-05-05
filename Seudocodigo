@@ -5,6 +5,7 @@ Inicio
 
 - Ingresar los datos obtenidos de la enuesta a la base de datos
 - Comparar los datos de intereses y motivaciones del usuario con otros usuarios 
+- Analizar las categorias de los juegos obtenidos al comparar usuarios para encontrar más juegos similares
 - Analizar las similitudes de juegos en realacion con usuarios de gustos y motivacioes similares
 - Devolver los juegos similares
 -Si el usuario presiona alguno de los filtros, volver a devolver los juegos en base a los nuevos filtros
